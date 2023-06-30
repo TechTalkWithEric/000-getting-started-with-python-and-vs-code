@@ -1,2 +1,2 @@
-# 000-episode-zero-getting-started-with-serverless
+# 000-getting-started-with-python-and-vs-code
 Getting Started with Serverless
