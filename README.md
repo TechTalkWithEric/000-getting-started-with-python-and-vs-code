@@ -1,5 +1,8 @@
 # 000-getting-started-with-python-and-vs-code
 
+Welcome to episode zero.  I probably won't make an actual episode for this unless there is some demand.  I think the instructions in this repo are pretty self explanitory.  That being said, if you feel like an episode is needed, just let me know.
+
+
 Getting Started with Python and VS Code. While the last two are optional, most of the examples in these repos will use the AWS CLI and AWS SAM CLI.
 
 ## Prerequists
