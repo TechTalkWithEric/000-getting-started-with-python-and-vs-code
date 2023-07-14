@@ -26,7 +26,7 @@ Python, an incredibly versatile and powerful programming language, is widely use
 
 4. Running Python Scripts:
 
-    To execute Python scripts within your virtual environment, simply run the "python" command followed by the script's filename:
+    To execute Python scripts, simply run the "python" command followed by the script's filename:
 
     ```sh
     python script.py
@@ -36,6 +36,6 @@ Python, an incredibly versatile and powerful programming language, is widely use
 
 
 ## Congratulations! 
-You have successfully installed Python and created a Python environment using `venv`. With a properly set up environment, you can now develop Python projects with ease, manage dependencies efficiently, and experiment with various libraries and frameworks. 
+You have successfully installed Python.  Next, install [`pip`](./03-install-pip.md) and then your [virtual environment](./04-install-your-virtual-environment.md)
 
 **IMPORTANT** Remember to activate your virtual environment each time you start a new project to maintain a clean and isolated development environment. Happy coding with Python!
