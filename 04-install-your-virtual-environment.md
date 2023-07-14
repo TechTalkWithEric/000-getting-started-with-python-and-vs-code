@@ -46,10 +46,9 @@ To set up a virtual (venv) environment, follow these steps:
 3. Installing Packages:
 
     
-    [see install pip](./03-install-pip.md)
+    [see install packages with pip](./03-install-pip.md)
 
     
-
 
 4. Running Python Scripts:
 
