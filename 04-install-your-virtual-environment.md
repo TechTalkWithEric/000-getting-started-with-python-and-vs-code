@@ -1,4 +1,4 @@
-# Title: A Step-by-Step Guide to Creating a Python Virtual Environment
+# A Step-by-Step Guide to Creating a Python Virtual Environment
 
 
 To create a clean and isolated environment for your Python projects you can use virtual environments. Virtual environments allow you to manage project dependencies and isolate them from other Python installations on your system. 
